@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "20363DD3-E750-4EAD-B60F-33B77AD6813D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBF6AF8F-A103-463F-A4C3-2CC904B192C2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginApp/CadastroVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "tappedRegisterButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBF6AF8F-A103-463F-A4C3-2CC904B192C2 - 4bfc77c259c1dd86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginApp.CadastroVC.tappedRegisterButton(__C.UIButton) -&gt; ()"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felipemiranda/loginFirebase-DH/LoginApp/CadastroVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "CBF6AF8F-A103-463F-A4C3-2CC904B192C2 - 2bb401185d0a664b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LoginApp.CadastroVC.tappedRegisterButton(__C.UIButton) -&gt; ()"
+                  moduleName = "LoginApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/felipemiranda/loginFirebase-DH/LoginApp/CadastroVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
